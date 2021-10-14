@@ -3,33 +3,39 @@ body{
     font-family:Roboto;
     font-size: 16px;
 }
+
 h1,h2{
     font-family: Julius sans one;
     color: #000000
     font-weight: 400;
     font-style: normal;
 }
+
 h1{
     font-size: 32px;
 }
+
     h2{
         font-size: 26px;
     }
-    h3{
-        font-style: Lexend Deca;
-        font-size: 24px;
-        line-height: 30px;
-        font-weight: 400;
-        font-style: normal;
-        color: #000000;
-    }
-    p{
-        font-size: 16px;
-        font-family: Lexend Deca;
-        font-weight: normal;
-        font-style: normal;
-        line-height: 19px;
-    }
+
+h3{
+   font-style: Lexend Deca;
+   font-size: 24px;
+   line-height: 30px;
+    font-weight: 400;
+    font-style: normal;
+    color: #000000;
+}
+
+p{
+   font-size: 16px;
+   font-family: Lexend Deca;
+   font-weight: normal;
+   font-style: normal;
+   line-height: 19px
+}
+
  /*Homepage*/
 
  header{
