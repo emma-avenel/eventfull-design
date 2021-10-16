@@ -36,6 +36,14 @@ p{
    line-height: 19px
 }
 
+.btn-grey{
+	background-color: #DFD8C8;
+	color: black;
+	padding : 10px 15px;
+	border-radius: 10px;
+	font-size: 20px;
+}
+
  /*Homepage*/
 
  header{
