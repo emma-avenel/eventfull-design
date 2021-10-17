@@ -44,6 +44,7 @@ p{
 	font-size: 20px;
 }
 
+
  /*Homepage*/
 
  header{
@@ -53,3 +54,67 @@ p{
      left: -1px;
      top: -4px;
  }
+
+
+/*Banner*/
+
+.banner {
+	background-color: #BBDED6;
+	height: 350px;
+	position: center;
+}
+
+.banner h3 {
+	position: absolute;
+width: 331px;
+height: 28px;
+left: 555px;
+top: 269px;
+font-weight: 40px;
+}
+
+.banner a {position: absolute;
+width: 160px;
+height: 54px;
+left: 151px;
+top: 68px;
+align-content: center;}
+
+.container a {
+	text-align: center;}
+
+#img1 {
+	position: absolute;
+width: 500px;
+height: 500px;
+left: 470px;
+top: 55px;
+
+}
+
+#img2 {
+	position: absolute;
+width: 132px;
+height: 142px;
+left: 1100px;
+top: 231px;
+}
+
+#img3 {
+	position: absolute;
+width: 132px;
+height: 142px;
+left: 1160px;
+top: 231px;
+}
+
+#img4 {
+	position: absolute;
+width: 132px;
+height: 142px;
+left: 1220px;
+top: 231px;
+}
+
+
+
