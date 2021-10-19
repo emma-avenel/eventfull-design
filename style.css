@@ -40,6 +40,8 @@ p{
    line-height: 19px
 }
 
+/*Button and link*/
+
 .btn-grey{
 	background-color: #DFD8C8;
 	color: black;
@@ -127,7 +129,7 @@ a{
 }
 
 
-/*Avatar Social Media/
+/*Avatar Social Media*/
 
 .avatar-container {
 	background-color: #BBDED6;
