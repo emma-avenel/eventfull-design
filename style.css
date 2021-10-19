@@ -149,3 +149,18 @@ a{
 	left: 20%;
 	transform: translate(-50px,-50px)
 }
+
+/*Card - Most popular events*/
+
+.img-cardpopular {
+        position: absolute;
+        width: 1007px;
+        height: 410px;
+        top: 328px;
+        border-radius: 10px;
+        vertical-align: middle;
+}
+
+a{
+        text-decoration: none;
+}
