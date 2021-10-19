@@ -71,88 +71,9 @@ a{
  }
 
 
-/*Banner*/
-.banner {
-	background-color: #BBDED6;
-	height: 350px;
-	position: center;
-}
 
 
-.banner h3 {
-	position: absolute;
-        width: 331px;
-        height: 28px;
-        left: 555px;
-        top: 269px;
-        font-weight: 40px;
-}
 
-.banner a {
-	position: absolute;
-	width: 100px;
-	height: 34px;
-	left: 151px;
-	top: 68px;
-	align-items: center;
-}
-
-.container a {
-	text-align: center;
-}
-
-#img1 {
-	position: absolute;
-	width: 500px;
-	height: 500px;
-	left: 300px;
-	top: -5px;
-
-}
-
-#img2 {
-	position: absolute;
-	width: 132px;
-	height: 142px;
-	left: 970px;
-	top: 185px;
-}
-
-#img3 {
-	position: absolute;
-	width: 132px;
-	height: 142px;
-	left: 1030px;
-	top: 185px;
-}
-
-#img4 {
-	position: absolute;
-	width: 132px;
-	height: 142px;
-	left: 1090px;
-	top: 185px;
-}
-
-
-/*Avatar Social Media*/
-
-.avatar-container {
-	background-color: #BBDED6;
-	border-radius: 100px;
-	width: 170px;
-	height: 170px;
-}
-.avatar-container img {
-	display: block;
-	position: relative;
-	vertical-align: middle;
-	height: 200px;
-	width: 200px;
-	top: 45%;
-	left: 20%;
-	transform: translate(-50px,-50px)
-}
 
 /*Card - Most popular events*/
 
