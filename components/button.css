@@ -14,3 +14,17 @@
 	text-align: center;
 	top: 758px;
 }
+
+/*Button and link*/
+
+.btn-grey{
+	background-color: #DFD8C8;
+	color: black;
+	padding : 5px 10px;
+	border-radius: 5px;
+	font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+}
