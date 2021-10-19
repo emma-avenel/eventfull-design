@@ -1,3 +1,13 @@
+
+.btn-grey{
+	background-color: #DFD8C8;
+	color: black;
+	padding : 5px 10px;
+	border-radius: 5px;
+	font-size: 20px;
+	font-family: Robotto;
+}
+
 .btn-beige {
 	background-color: #DFD8C8;
 	border-radius: 4px;
@@ -16,13 +26,5 @@
 }
 
 
-.btn-grey{
-	background-color: #DFD8C8;
-	color: black;
-	padding : 5px 10px;
-	border-radius: 5px;
-	font-size: 20px;
-	font-family: Robotto;
-}
 
 
